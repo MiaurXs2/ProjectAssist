@@ -1,0 +1,6 @@
+aiogram==3.22.0
+asyncio==4.0.0
+SQLAlchemy==2.0.43
+environs==14.3.0
+aiofiles==24.1.0
+asyncio==4.0.0
